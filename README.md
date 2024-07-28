@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cristiala
-- 👀 I’m interested in data analytics, software development, and AI
+- 👀 I’m interested in data analytics, software development, and AI.
 
 <!---
 Cristiala/Cristiala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
